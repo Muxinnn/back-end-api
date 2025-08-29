@@ -22,7 +22,7 @@ app.get("/", (req, res) => {
   
   // Responde com um JSON contendo uma mensagem
   res.json({
-		descricao: "API para _____",    // Substitua pelo conteúdo da sua API
+		descricao: "API para aprender a jogar basquete bem (nem eu sei)",    // Substitua pelo conteúdo da sua API
     autor: "Andrey Paulino Costa",
   });
 });
